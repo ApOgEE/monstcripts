@@ -5,3 +5,10 @@ Ini adalah koleksi monitoring script yang digunakan untuk melihat status beberap
 ## kegunaan
 
 Script ni boleh digunakan dengan command `watch -n 1 ./namascript.sh`
+
+## python
+
+Jangan lupa install
+```
+pip install prettytable
+```
