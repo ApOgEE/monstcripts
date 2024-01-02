@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # https://github.com/ApOgEE
 # Command untuk display postgres replica streaming
 # cara guna:

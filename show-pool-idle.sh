@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # https://github.com/ApOgEE
 # Command untuk display pgpool idle
 # cara guna:
