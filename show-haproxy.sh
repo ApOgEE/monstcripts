@@ -2,6 +2,8 @@
 
 # https://github.com/ApOgEE
 # Command untuk display haproxy stat di terminal
+# cara guna:
+# watch -n 5 ./show-haproxy.sh
 STAT_USER=user
 STAT_PASS=pass
 
